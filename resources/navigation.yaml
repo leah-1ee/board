@@ -1,0 +1,10 @@
+groups:
+  - title: 코어 개발
+    items:
+      - ./nodejs-core-docs.md
+      - ./nodejs-codebase-dependencies.md
+      - ./nodejs-build-and-test.md
+  - title: 저장소 운영
+    items:
+      - ./nodejs-github-workflows.md
+      - ./nodejs-commit-queue.md

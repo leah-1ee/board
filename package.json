@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-contribution-board",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tools/validate.test.mjs",
+    "validate": "node tools/validate.mjs"
+  },
+  "devDependencies": {
+    "yaml": "^2.9.0"
+  }
+}
